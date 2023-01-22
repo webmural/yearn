@@ -1,0 +1,23 @@
+.halo {
+  font-size: max(2em, 11vw);
+  font-family: fantasy;
+  font-family: sans-serif;
+}
+
+.hair {
+  margin: auto;
+  overflow-wrap: anywhere;
+  padding: 1ex;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aloha {
+  margin: 0;
+}
+
+:focus {
+  outline: thick groove;
+}
